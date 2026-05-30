@@ -1,0 +1,30 @@
+# ── Datos crudos (demasiado grandes para GitHub) ──────────────────────────────
+data/
+
+# ── Split de imágenes generado automáticamente (copia de data/) ───────────────
+outputs/distraccion_images_split/
+
+# ── Backups y carpetas de exportación ─────────────────────────────────────────
+outputs-*/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Sistema operativo ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp

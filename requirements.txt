@@ -1,0 +1,7 @@
+streamlit>=1.57.0
+pandas
+numpy
+pillow
+matplotlib
+scikit-learn
+tensorflow

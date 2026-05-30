@@ -1,0 +1,2 @@
+dataset,accuracy,f1_weighted,precision_weighted,recall_weighted
+distraccion_images,0.9084699453551912,0.9082744267545909,0.9085047852021912,0.9084699453551912
