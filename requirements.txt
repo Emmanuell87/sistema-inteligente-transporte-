@@ -1,7 +1,8 @@
-streamlit>=1.57.0
+streamlit>=1.28.0,<2.0
 pandas
 numpy
 pillow
 matplotlib
 scikit-learn
-tensorflow
+tensorflow-cpu>=2.15,<2.19
+joblib
