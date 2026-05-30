@@ -1,5 +1,6 @@
-# ── Datos crudos (demasiado grandes para GitHub) ──────────────────────────────
-data/
+# ── Datos grandes: NO subir a GitHub ──────────────────────────────────────────
+data/raw/*.pkl
+data/raw/distraccion_images/
 
 # ── Split de imágenes generado automáticamente (copia de data/) ───────────────
 outputs/distraccion_images_split/
